@@ -1,10 +1,14 @@
 🏠 Girls Hostel Management System
+
+
 The Girls Hostel Management System is a comprehensive web-based application designed to streamline and automate the day-to-day operations of a girls’ hostel. It provides an intuitive interface for both residents and administrators to manage hostel-related tasks efficiently.
 
 Built with PHP, HTML, CSS, and MySQL, this system offers a robust and scalable solution for handling registrations, room allocations, mess management, medical facilities, laundry services, and more.
 
 
 📖 Project Overview
+
+
 This portal digitizes the hostel management process by offering a dual-interface system:
 
 🧑‍🎓 Resident Portal for easy registration, profile management, and service access.
