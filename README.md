@@ -16,12 +16,17 @@ The goal is to replace manual workflows with an organized, efficient, and user-f
 
 
 🌟 Key Features
+
+
+
 👩‍🎓 Resident Portal
 Registration System: Enables residents to register for hostel accommodation easily.
 
 Profile Management: View and update personal details securely.
 
 Complaints & Requests: Submit complaints or service requests directly through the portal.
+
+
 
 🛡 Admin Dashboard
 Resource Management: Add, update, and manage details of rooms, mess schedules, and other facilities.
@@ -39,27 +44,19 @@ Service Modules: Manage laundry requests, medical kit inventory, vehicle schedul
 | **Server**   | Apache (via XAMPP/WAMP)          |
 
 
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL (for data storage and retrieval)
-
-Server: Apache (via XAMPP/WAMP)
-
 📂 Project Structure
-File/Folder	Description
-admin_registration.php	Admin registration page
-login.php	Admin login page
-register.php	Resident registration form
-room.php	Room management module
-mess.php	Mess management module
-laundry.php	Laundry service management
-medicalkit.php	Medical kit management
-complaint_form.php	Complaint submission page
-view_complain.php	Admin view for complaints
-logout.php	Logout script
+| File/Folder              | Description                |
+| ------------------------ | -------------------------- |
+| `admin_registration.php` | Admin registration page    |
+| `login.php`              | Admin login page           |
+| `register.php`           | Resident registration form |
+| `room.php`               | Room management module     |
+| `mess.php`               | Mess management module     |
+| `laundry.php`            | Laundry service management |
+| `medicalkit.php`         | Medical kit management     |
+| `complaint_form.php`     | Complaint submission page  |
+| `view_complain.php`      | Admin view for complaints  |
+| `logout.php`             | Logout script              |
 
 
 👩‍💻 Developed By
