@@ -11,9 +11,9 @@ Built with PHP, HTML, CSS, and MySQL, this system offers a robust and scalable s
 
 This portal digitizes the hostel management process by offering a dual-interface system:
 
-🧑‍🎓 Resident Portal for easy registration, profile management, and service access.
+1. Resident Portal for easy registration, profile management, and service access.
 
-🛡 Admin Dashboard to oversee operations, manage resources, and monitor resident activities.
+2. Admin Dashboard to oversee operations, manage resources, and monitor resident activities.
 
 The goal is to replace manual workflows with an organized, efficient, and user-friendly system.
 
@@ -25,18 +25,14 @@ The goal is to replace manual workflows with an organized, efficient, and user-f
 
 👩‍🎓 Resident Portal
 Registration System: Enables residents to register for hostel accommodation easily.
-
 Profile Management: View and update personal details securely.
-
 Complaints & Requests: Submit complaints or service requests directly through the portal.
 
 
 
 🛡 Admin Dashboard
 Resource Management: Add, update, and manage details of rooms, mess schedules, and other facilities.
-
 Resident Records: Maintain records of resident details, room allocations, and pending dues.
-
 Service Modules: Manage laundry requests, medical kit inventory, vehicle schedules, and mess usage efficiently.
 
 🖥 Tech Stack
@@ -63,5 +59,5 @@ Service Modules: Manage laundry requests, medical kit inventory, vehicle schedul
 | `logout.php`             | Logout script              |
 
 
-👩‍💻 Developed By
+Developed By-
 Bhagya Priya
