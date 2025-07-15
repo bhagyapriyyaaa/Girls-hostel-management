@@ -48,5 +48,3 @@ The goal is to replace manual workflows with an organized, efficient, and user-f
 | `complaint_form.php` | Complaint submission page |
 | `view_complain.php` | Admin view for complaints |
 | `logout.php` | Logout script |
-
-**Developed By:** Bhagya Priya
